@@ -15,6 +15,7 @@ This project implements a shadow removal pipeline using a U-Net-based convolutio
   - [Shadow Removal](#shadow-removal)
 - [Results](#results)
 - [References](#references)
+- [License](#license)
 
 ---
 
